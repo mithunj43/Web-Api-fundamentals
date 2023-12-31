@@ -4,16 +4,17 @@ namespace CityInfo.API.Controllers
 {
     [ApiController]
     [Route("api/cities")]
-    public class CitiesController: ControllerBase
+    public class CitiesController : ControllerBase
     {
         [HttpGet]
         public JsonResult GetCities()
         {
-            return new JsonResult(
-                new List<object> {
-                    new { id = 1, Name = "India" },
-                    new { id = 2, Name = "Australia" }
-                    });
+            return new JsonResult(CitiesDataStore.Current.Cities);
+        }
+
+        [HttpGet("{id}")]
+        public JsonResult GetCity(int id) {
+            return new JsonResult(CitiesDataStore.Current.Cities.FirstOrDefault(c => c.Id == id));
         }
     }
 }
