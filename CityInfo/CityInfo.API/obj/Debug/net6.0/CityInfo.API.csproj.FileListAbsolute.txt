@@ -30,3 +30,8 @@ C:\angStudy\Study\.net core\Web-Api-fundamentals\CityInfo\CityInfo.API\obj\Debug
 C:\angStudy\Study\.net core\Web-Api-fundamentals\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.pdb
 C:\angStudy\Study\.net core\Web-Api-fundamentals\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.genruntimeconfig.cache
 C:\angStudy\Study\.net core\Web-Api-fundamentals\CityInfo\CityInfo.API\obj\Debug\net6.0\ref\CityInfo.API.dll
+C:\angStudy\Study\.net core\Web-Api-fundamentals\CityInfo\CityInfo.API\bin\Debug\net6.0\Booking Confirmation Voucher.pdf
+C:\angStudy\Study\.net core\Web-Api-fundamentals\CityInfo\CityInfo.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\angStudy\Study\.net core\Web-Api-fundamentals\CityInfo\CityInfo.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\angStudy\Study\.net core\Web-Api-fundamentals\CityInfo\CityInfo.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\angStudy\Study\.net core\Web-Api-fundamentals\CityInfo\CityInfo.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll

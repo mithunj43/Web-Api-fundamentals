@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CityInfo/.vs/CityInfo/FileContentIndex/4f3324a3-dadf-42a3-a679-b8f8228e5646.vsidx
+/CityInfo/.vs/CityInfo/FileContentIndex/0801926f-9f82-4e9d-a21d-ab1bc77d4145.vsidx
+/CityInfo/.vs/CityInfo/FileContentIndex/99e504ef-4906-4707-8f46-4611a7c920bc.vsidx
+/CityInfo/.vs/CityInfo/FileContentIndex/a4bd6c2e-8fe7-44c7-ba59-2732d97f101b.vsidx
+/CityInfo/.vs/CityInfo/FileContentIndex/a5ee47d7-7c93-4c8b-b93d-9c975d9ed327.vsidx
+/CityInfo/.vs/CityInfo/FileContentIndex/c544efb7-b21c-4afc-817d-1f10ed271e9c.vsidx
+/CityInfo/.vs/CityInfo/FileContentIndex/1146b54f-4a0f-48aa-9b00-9b529a49006b.vsidx
+/CityInfo/.vs/CityInfo/FileContentIndex/74463837-df52-4dce-98eb-b82a8ab27aff.vsidx
+/CityInfo/.vs/CityInfo/FileContentIndex/bf70edba-6951-4622-a1d3-8d5bfdd9c0d2.vsidx
+/CityInfo/.vs/CityInfo/FileContentIndex/d1e0143f-7bdd-4367-b98b-54be0f5ea35c.vsidx
+/CityInfo/.vs/CityInfo/FileContentIndex/faf33774-d39d-458b-9a84-49ce5c7e90fc.vsidx
+/CityInfo/CityInfo.API/bin/Debug/net6.0/Booking Confirmation Voucher.pdf
+/CityInfo/CityInfo.API/bin/Debug/net6.0/CityInfo.API.deps.json
+/CityInfo/CityInfo.API/bin/Debug/net6.0/CityInfo.API.dll
+/CityInfo/CityInfo.API/bin/Debug/net6.0/CityInfo.API.pdb
