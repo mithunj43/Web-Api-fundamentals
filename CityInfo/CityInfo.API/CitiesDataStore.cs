@@ -12,7 +12,7 @@ namespace CityInfo.API
                 new CityDto() 
                 { 
                     Id = 1,
-                    Name = "Bangalore",
+                    Name = "Bangalore1",
                     Description = "The one with garden city",
                     PointsOfInterest = new List<PointOfInterestDto>()
                     { 
